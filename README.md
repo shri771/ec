@@ -1,6 +1,4 @@
-# ⚡ NexCart
 
-A premium tech e-commerce app built with React + Vite.
 
 ## Features
 - 🔍 Live search & category filtering
